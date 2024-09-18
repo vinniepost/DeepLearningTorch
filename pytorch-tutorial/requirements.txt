@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+ipykernel
+scikit-learn
+pandas
+matplotlib
+numpy
+onnx
+onnxruntime
+tensorboard
+keras
+kaggle
